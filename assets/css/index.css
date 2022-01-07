@@ -318,4 +318,20 @@ body{
     .navbar-toggler{
         z-index: 999;
     }
+
+   
+}
+
+@media (max-width: 400px){
+    .card-end{
+        margin-top: 10px !important;
+    }
+
+    .card-middle{
+        margin-right: 0 !important;
+    }
+
+    .card-star{
+        margin-right: 10px;
+    }
 }
