@@ -322,16 +322,18 @@ body{
    
 }
 
-@media (max-width: 400px){
+@media (max-width: 500px){
     .card-end{
-        margin-top: 10px !important;
+        display: none;
+        /*margin-top: 10px !important;*/
     }
 
-    .card-middle{
+   /* .card-middle{
         margin-right: 0 !important;
+        margin-left: 20px !important;
     }
 
     .card-star{
-        margin-right: 10px;
-    }
+        margin-right: 20px !important;
+    }*/
 }
